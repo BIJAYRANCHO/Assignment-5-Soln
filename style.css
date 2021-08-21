@@ -1,0 +1,30 @@
+*{
+    margin: o;
+    border: 0;
+    box-sizing: border-box;
+    background: rgba(244, 246, 247, 0.904);
+}
+
+input{
+    border: 1px double orange;
+}
+
+button{
+    padding: 1em;
+    width: 100px;
+    margin: 10px;
+    color: #36061896;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    background: orange;
+    border-radius: 1em;
+}
+
+#content{
+    width: auto;
+    border: 15px dashed dimgrey ;
+    padding: 50px;
+    margin: 20px;
+    box-shadow: firebrick;
+
+}
